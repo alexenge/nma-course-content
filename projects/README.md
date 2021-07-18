@@ -62,13 +62,12 @@ Below we link all the relevant project materials.These are available either on g
    - Neurons: [stringer](https://osf.io/u9gqe/), [steinmetz1](https://osf.io/29vuq/), [steinmetz2](https://osf.io/52wja/), [steinmetz3](https://osf.io/bt4ph/)  
    - FMRI: [kay](https://osf.io/h3z4e/), [hcp1](https://osf.io/td957/), [hcp2](https://osf.io/5fmnq/)
    - Other: [theory](https://osf.io/z7p5v/), [behavior](https://osf.io/hez85/), [eeg](https://osf.io/5r96v/)
-6. How to write an abstract (in construction): <!--[guide]() [paper1]() [paper2]() [paper3]()-->
 
 
 # **Important deadlines**
 
 * project block 2:  by end of block, please submit a project proposal via this [Airtable link](https://airtable.com/shrZWimDB3YddpXDu). We will use this immediately to match your group with a mentor and a project TA.  
-* course day 10:  by end of day, please submit your abstract via this [Airtable link]() (not yet available).  
+* course day 10:  by end of day, please submit your abstract via this [Airtable link](https://airtable.com/shrITSzD4fgFCGiWI).  
 * project block 14: by end of block, please submit your slides via this [Airtable link]() (not yet available).  
 
 **Project block 14** — Prepare project presentation
