@@ -162,10 +162,69 @@ Abstract writing day should have helped you narrow down what results (positive o
 
 * If you know what analysis you need, but don’t know how to do it, the TAs are there to help you. They can point you to useful toolkits that may be difficult to find otherwise.
 * Try not to implement complicated analyses from scratch. Use existing toolkits, and learn how to use them well. This kind of knowledge is very helpful long-term.
-* If you find a negative answer to your question, that is absolutely ok! Please do report that. Then go back and think about how this affects your initial hypothesis. Does it rule it out, or could there be limitations in this particular data that lead to the negative result? What other data would you collect that would be better suited for answering this question. Try to design a new experiment in very specific detail and tell us about it. Who knows, somebody might run that experiment someday!
-* If you find a positive result to your question, then you should spend the rest of your time validating it to make absolutely sure it is really true. You will need to design controls using the data (shuffling controls), or using simulated data, and you need to check the logic of your pipeline from start to end. Did you accidentally select only neurons that were tuned to a behavior, and then showed that they respond to particular aspects of that behavior? Did you sort neurons by their peak response time and then found sequences in your data? There are some obvious and some not-so-obvious circular analyses that can catch even experienced researchers off-guard. This is what the controls are especially useful at catching.  
+* If you find a negative answer to your question, that is absolutely ok! Please do report that. Then go back and think about how this affects your initial hypothesis. Does it rule it out, or could there be limitations in this particular data that lead to the negative result? What other data would you collect that would be better suited for answering this question? Try to design a new experiment in very specific detail and tell us about it. Who knows, somebody might run that experiment someday!
+* If you find a positive result (i.e. the data matches your hypothesis), then you should spend the rest of your time validating it to make absolutely sure it is really true. You will need to design controls using the data (shuffling controls), or using simulated data, and you need to check the logic of your pipeline from start to end. Did you accidentally select only neurons that were tuned to a behavior, and then showed that they respond to aspects of that behavior? Did you sort neurons by their peak response time and then found sequences in your data? That is circular reasoning! There are some obvious and some not-so-obvious circular analyses that can catch even experienced researchers off-guard. This is what the controls are especially useful at catching.  
 
-## Day 15 (Friday tutorial block for everyone)
+## Day 15 project work
 
-* This is the day where you tell your superpod about your project. The groups will take turns to share their screens. You can use figures and other graphics, but this is meant to be told as a story, and everyone from your group should take a turn telling a part of the story. Tell us about the different hypotheses you’ve had at different points and how you refined them using some of the tools we taught. If the tools were not useful, tell us why, and tell us what you did instead to make progress, or to get unstuck when you didn’t know what to do.
-* Most groups won’t have a result and this is absolutely normal. However, the main goal anyway is to communicate the logic of your project proposal. Did you design a smart way to test the neural binding hypothesis, but then didn’t find the data to get answers? That can also be very interesting for others to hear about! Furthermore it will make it clear that research never stops. It continues as a series of questions and answers, not just within your own project, but at the level of the entire research field. Tell us what got you excited about this particular project, and try to dream big. One day, models like yours could be used to … ?
+Only for timeslots 2 & 4! You have an extra project block at the beginning of this day before tutorials (which makes up for the lack of project time on W1D1). Use it to finalize your presentation. The last hour of this block (just before coursework starts) is your project presentation (as per update on Wed, July 21). Check the [calendar](https://academy.neuromatch.io/calendar-summer-2021) and the email invitation we are sending to the mentors to be confirm the time.
+
+## Day 15 Presentations (Friday tutorial block for everyone)
+
+This is the day where you present your project to other groups who worked on the same dataset. Your mentor and your project TAs will be invited too, but they are busy so they might not make it. The groups will take turns to share their screens. You can use figures and other graphics, but this is meant to be told as a story, and everyone from your group should take a turn telling a part of the story. Tell us about the different hypotheses you’ve had at different points and how you refined them using some of the tools we taught.
+
+At the end of your last project block, you should also submit your slides via this [Airtable link]() (not yet available).   
+
+### Schedule
+
+* 10 minutes of meet & greet. Do a round of introductions (one TA calls out names from the zoom list). Everyone says their name, pod name, position, university and subject of study, as well as one interesting fact about themselves "Hi, I'm Jonny from the wiggly caterpillars and I am a PhD student at University of Notre Dame in Paris. I do neuroscience experiments in flies, and in my free time I like to go on long bike rides".
+
+* 30 minutes of presentations, including questions. Each group should speak for 5 minutes, and then take questions for 1-2 minutes. The order of presentations should be the one from the email.
+
+* 20 minutes of discussion. Use the following questions to guide the group discussion. Spend 3-5 minutes on each question.  
+  * What was missing in the dataset that you would have really liked to have?
+  * Does anyone plan to continue working on this project in the future? Perhaps a few students from the multiple groups would like to continue together?
+  * Which one of the 10 steps to modelling/research was hardest and why?
+  * Based on your experience with the NMA project, what project would you most like to do next? Make up your own, or pick from the NMA projects (a different dataset or project template which you did not use).
+  * What surprised you the most about the process of doing a project? In what way was this project most different from other projects you have done in the past.
+  * What technique did you learn at NMA which you think you can immediately apply to your own project (if you are currently doing research)?  
+
+
+### Logistics:
+
+* You will present to other groups (3-5 groups per room). An email will be sent with the zoom room of one of the pods where everyone goes for one hour corresponding to either:
+  * timeslots 2,4:   last hour of project time, -1:00 to 0:00 relative to start of your normal tutorial time (check the [calendar](https://academy.neuromatch.io/calendar-summer-2021)).
+  * timeslots 1,3,5: 6:10-7:10 relative to the start of your normal tutorial time (check the [calendar](https://academy.neuromatch.io/calendar-summer-2021)).
+  There is a hard cutoff at the one hour mark, so the TAs must ensure everyone gets a turn to present.  
+
+* Use this presentation style ([google slides](https://docs.google.com/presentation/d/1A1uaYarVot9YyCdbAAB4VDvsQfK6emqq-TwIZ9xVNwo/edit?usp=sharing) or [powerpoint](https://osf.io/ky6fj/download)) or create your own style!
+
+* One minute per person and one slide per person only! This is primarily to ensure that everyone in your superpod gets to go before the hard cutoff at the one hour mark.
+
+* Do not do introductions again, just present the material directly.
+
+* When you are done presenting, leave the last slide up (with conclusions), and open the floor for questions.
+
+
+### Content:
+
+* The 1 minute, 1 slide rule might seem like an impossible limit. However, it is one of the most useful formats you can learn, often referred to as a "one minute elevator pitch". If you can become an expert at giving short pitches about your work, it will help you get the interest of a lot of people, for example when presenting posters at scientific conferences. Or when you accidentally find yourself in an elevator with Mark Zuckerberg: this could be your chance to secure a million dollars in research funds!
+
+* The key to a good presentation is to practice it by yourself many times. It is no different from other performing arts (acting, playing a musical instrument etc), where rehearsals are so crucial to a good performance.
+
+* If something in your presentation doesn't sound good or doesn't make sense, you WILL get annoyed by it when you say it the tenth time, and that will make you want to change it. (Secret: this how professors prepare all of their presentations and it's why they always sound like they know what they are talking about)
+
+* Always have an introduction slide and a conclusion slide. If your group is relatively large (>=5 people), then someone should be assigned to each of the intro and conclusion slides. If your group is small, then the same person can give intro + next slide, or conclusion slide + previous slide.
+
+* Short anecdotes can work like magic for engaging your audience. As a rule, most listeners are passive, bored, not paying attention. You have to grab their attention with that smart elevator pitch, or with a short anecdote about something that happened to your group while working on projects.
+
+* Most groups won’t have a result and this is absolutely normal. However, the main goal anyway is to communicate the logic of your project proposal. Did you design a smart way to test the neural binding hypothesis, but then didn’t find the data to get answers? That can also be very interesting for others to hear about! Furthermore it will make it clear that research never stops. It continues as a series of questions and answers, not just within your own project, but at the level of the entire research field. Tell us what got you excited about this particular project, and try to dream big. One day, models like yours could be used to do what?
+
+
+### Questions:
+
+* If your presentation was short enough, there can be time for questions from the audience. These are a great way to get feedback on your project!
+
+* Before you ask a question, consider whether others might be interested in that topic too. This usually means asking big picture questions, as opposed to detailed, technical questions, but there are exceptions.
+
+* If you are answering the question, try to be short and concise. Rambling is very clear to the audience, and it can seem like you're avoiding to answer the question. Answering concisely is another very useful skill in "real life". It also means that you can take more questions given our time constraints.
