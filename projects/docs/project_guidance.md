@@ -173,13 +173,13 @@ Only for timeslots 2 & 4! You have an extra project block at the beginning of th
 
 This is the day where you present your project to other groups who worked on the same dataset. Your mentor and your project TAs will be invited too, but they are busy so they might not make it. The groups will take turns to share their screens. You can use figures and other graphics, but this is meant to be told as a story, and everyone from your group should take a turn telling a part of the story. Tell us about the different hypotheses you’ve had at different points and how you refined them using some of the tools we taught.
 
-At the end of your last project block, you should also submit your slides via this [Airtable link]() (not yet available).   
+At the end of your last project block, you should also submit your slides via this [Airtable link](https://airtable.com/shr9Ge6A94JB7TOPI).   
 
 ### Schedule
 
 * 10 minutes of meet & greet. Do a round of introductions (one TA calls out names from the zoom list). Everyone says their name, pod name, position, university and subject of study, as well as one interesting fact about themselves "Hi, I'm Jonny from the wiggly caterpillars and I am a PhD student at University of Notre Dame in Paris. I do neuroscience experiments in flies, and in my free time I like to go on long bike rides".
 
-* 30 minutes of presentations, including questions. Each group should speak for 5 minutes, and then take questions for 1-2 minutes. The order of presentations should be the one from the email.
+* 30 minutes of presentations, including questions. Each group should speak for approx 5 minutes (depending on group size), and then take questions for 1-2 minutes. The order of presentations should be the one from the email.
 
 * 20 minutes of discussion. Use the following questions to guide the group discussion. Spend 3-5 minutes on each question.  
   * What was missing in the dataset that you would have really liked to have?
